@@ -115,10 +115,15 @@
             transform: translateY(-10px);
         }
 
-        .product-image {
-            height: 250px;
+                .product-image {
             width: 100%;
         }
+
+        .product-img
+        {
+            width: 100%;
+        }
+
 
         .product-card h3 {
             padding: 20px 20px 10px;
